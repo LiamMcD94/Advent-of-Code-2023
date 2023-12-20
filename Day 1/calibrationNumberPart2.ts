@@ -1,4 +1,4 @@
-// This piece of code is part 1 of day 1 in the Advent of Coding 2023 puzzles
+// This piece of code is part 2 of day 2 of the Advent of Coding 2023 puzzles
 // look at https://adventofcode.com/2023/day/1 for more information about the task.
 
 var fs = require("fs");
